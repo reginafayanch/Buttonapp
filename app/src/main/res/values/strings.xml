@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Buttonapp</string>
+
+    <string name="hello_world">Hello world! Regina is here!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Button_label">Click Me!</string>
+</resources>
